@@ -20,7 +20,7 @@
 
 ## Options
 
-*. *Offset:*
+*Offset:*
 ```code
 $('.wrapper').inView({
     offset: 60
