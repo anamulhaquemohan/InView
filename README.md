@@ -21,8 +21,8 @@
 ## Options
 
 *. *Offset:*
-    ```code
-    $('.wrapper').inView({
-        offset: 60
-    });
-    ```
+```code
+$('.wrapper').inView({
+    offset: 60
+});
+```
