@@ -11,6 +11,8 @@ License: MIT License
 */
 
 ;(function ($) {
+    "use strict";
+
     $.fn.inView = function (ops) {
         ops = $.extend({
             selector: false,
